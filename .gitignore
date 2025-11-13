@@ -1,0 +1,10 @@
+# Виртуальное окружение
+venv/
+__pycache__/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Файл с данными
+products.json
